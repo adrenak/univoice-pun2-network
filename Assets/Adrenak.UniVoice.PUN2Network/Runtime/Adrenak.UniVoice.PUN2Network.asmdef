@@ -1,0 +1,19 @@
+{
+    "name": "Adrenak.UniVoice.PUN2Network",
+    "references": [
+        "GUID:6b289bb677194eb40b60db3a566aab7b",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:08a110bd598f7604f9519c2d7e1fb3cc",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:1f776cd02c03a7b4280b6b649d7758e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

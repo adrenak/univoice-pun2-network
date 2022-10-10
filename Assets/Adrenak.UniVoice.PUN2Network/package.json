@@ -1,0 +1,39 @@
+{
+	"name": "com.adrenak.univoice.pun2network",
+	"version": "1.0.0",
+	"displayName": "Adrenak.UniVoice.PUN2Network",
+	"description": "Photon PUN2 based UniVoice Chatroom Network implementation",
+	"unity": "2019.4",
+	"author": {
+		"name": "Vatsal Ambastha",
+		"email": "ambastha.vatsal@gmail.com",
+		"url": "http://www.vatsalambastha.com"
+	},
+	"license": "MIT",
+	"keywords": [
+		"Multiplayer",
+		"Voice Chat",
+		"Photon Networking",
+		"Networking",
+		"VOIP",
+		"Voice",
+		"Univoice"
+	],
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org"
+	},
+	"scopedRegistries": [
+		{
+		"name": "NPM",
+		"url": "https://registry.npmjs.org",
+		"scopes": [
+			"com.adrenak.univoice",
+			"com.adrenak.brw"
+		]
+		}
+	],
+	"dependencies": {
+		"com.adrenak.univoice": "2.0.1",
+		"com.adrenak.brw": "1.0.1"
+	}
+}
